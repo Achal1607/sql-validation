@@ -1,9 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Add https://github.com/Achal1607/sql-validation-backend repo also to your local machine 
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### 'npm install'
+  For installing all the packages
 ### `npm start`
 
 Runs the app in the development mode.<br />
