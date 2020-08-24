@@ -27,7 +27,6 @@ class App extends Component {
     else { alert("PLease Enter an SQL Query!!!") }
   }
   render() {
-    console.log(this.state.result)
     return (
       <div className="container">
         <div className='jumbotron'>
